@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452173105254",
+    "project_id": "projeto-gym-fatec",
+    "storage_bucket": "projeto-gym-fatec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452173105254:android:f8bbdf8701820c93f0c5a7",
+        "android_client_info": {
+          "package_name": "com.example.gym_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452173105254-v9jmun92e6sp816k4epg81aailhjlq9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoy44FZhEJ0WnHujDboxF8pLnZLtSI0Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452173105254-v9jmun92e6sp816k4epg81aailhjlq9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
